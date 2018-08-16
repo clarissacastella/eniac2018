@@ -1,4 +1,4 @@
-# eniac2018
+# ENIAC2018
 
  Source code, results and corpora of of the work described in the paper _Polarity Classification of Traffic Related Tweets_.
 
