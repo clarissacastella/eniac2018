@@ -8,6 +8,7 @@ In this paper we present a study about polarity classification of tweets in the 
 ## Citation
 XAVIER, CLARISSA C. . Polarity Classification of Traffic Related Tweets. In: XV Encontro Nacional de Inteligência Artificial Computacional (ENIAC), 2018, São Paulo. 
 
+```
 @INPROCEEDINGS{Xavier-eniac2018,
     AUTHOR="Clarissa Xavier",
     TITLE="Polarity Classification of Traffic Related Tweets",
@@ -18,3 +19,4 @@ XAVIER, CLARISSA C. . Polarity Classification of Traffic Related Tweets. In: XV 
     YEAR="2018",
     KEYWORDS="Machine Learning; Natural Language Processing",
 }
+```
